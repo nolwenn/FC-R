@@ -1,0 +1,54 @@
+---
+title: "Nolwenn's Bookmarks"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+# R project et R blog
+
+* http://www.r-project.org/
+* https://rweekly.org/
+
+# STATISTICS
+
+* https://nolwenn.github.io/software-M1-biostat/   
+* https://stats.oarc.ucla.edu/other/dae/
+* https://www.datanovia.com/en/
+* http://regnault.perso.math.cnrs.fr/R_tuto/Intro_modeles_lineaires_mixtes.html  
+* https://cran.r-project.org/web/views/ClinicalTrials.html. 
+* https://xsliulab.github.io/Workshop/2021/week10/r-cluster-book.pdf. 
+* https://www.statslectures.com/r-stats-videos-tutorials. 
+* http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#orgheadline6  
+* http://stat545.com/index.html. 
+* http://swirlstats.com/. 
+
+# BOOKDOWN et quelques books
+
+* https://bookdown.org/
+* https://bookdown.org/roback/bookdown-BeyondMLR/ch-GLMM.html#twolevelmodeling-glmm
+* https://bookdown.org/yihui/rmarkdown-cookbook/
+* https://data-flair.training/blogs/r-tutorials-home/#tutorials
+* https://hartwork.org/beamer-theme-matrix/
+  
+* http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization#geom_density_2d-add-contours-from-a-2d-density-estimate
+* http://kateto.net/networks-r-igraph
+
+
+* https://rstudio-pubs-static.s3.amazonaws.com/47698_6effe42ff227451ab364b393d0bcf495.html
+
+# Larmarange github
+
+* http://larmarange.github.io/analyse-R/
+* http://larmarange.github.io/analyse-R/trajectoires-de-soins.html
+
+# DATA.TABLE
+
+* http://www.milanor.net/blog/access-data-quickly-and-easily-data-table-package/
+
+
+# R et STATA
+
+* http://www.uwintrostats.org/stata_translation.html 
+* https://clanfear.github.io/Stata_R_Equivalency/docs/r_stata_commands.html
+
